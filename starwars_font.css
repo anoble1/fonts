@@ -1,0 +1,9 @@
+/* star wars */
+@font-face{ 
+	font-family: 'Distant-Galaxy-fontfacekit';
+	src: url('https://github.com/anoble1/fonts/blob/master/Distant-Galaxy-fontfacekit/web%20fonts/distantgalaxy_regular_macroman/DISTGRG_-webfont.eot');
+	src: url('https://github.com/anoble1/fonts/blob/master/Distant-Galaxy-fontfacekit/web%20fonts/distantgalaxy_regular_macroman/DISTGRG_-webfont.eot?iefix') format('eot'),
+	     url('https://github.com/anoble1/fonts/blob/master/Distant-Galaxy-fontfacekit/web%20fonts/distantgalaxy_regular_macroman/DISTGRG_-webfont.woff') format('woff'),
+	     url('https://github.com/anoble1/fonts/blob/master/Distant-Galaxy-fontfacekit/web%20fonts/distantgalaxy_regular_macroman/DISTGRG_-webfont.ttf') format('truetype'),
+	     url('https://github.com/anoble1/fonts/blob/master/Distant-Galaxy-fontfacekit/web%20fonts/distantgalaxy_regular_macroman/DISTGRG_-webfont.svg#distant_galaxyregular') format('svg');
+}
